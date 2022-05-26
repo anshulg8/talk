@@ -19,7 +19,8 @@ const ICE_SERVERS = [
 ];
 
 const APP_URL = (() => {
-	const protocol = "http" + (location.hostname == "localhost" ? "" : "s") + "://";
+	// const protocol = "http" + (location.hostname == "localhost" ? "" : "s") + "://";
+	const protocol = "http://"
 	return protocol + location.hostname + (location.hostname == "localhost" ? ":3000" : "");
 })();
 
