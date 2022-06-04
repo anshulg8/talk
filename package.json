@@ -9,14 +9,13 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/anshulg8/talk.git"
+		"url": ""
 	},
 	"keywords": [
 		"webrtc",
 		"socket.io",
 		"video"
 	],
-	"author": "",
 	"license": "ISC",
 	"dependencies": {
 		"express": "^4.17.1",
