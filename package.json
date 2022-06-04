@@ -9,19 +9,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/vasanthv/talk.git"
+		"url": "git+https://github.com/anshulg8/talk.git"
 	},
 	"keywords": [
 		"webrtc",
 		"socket.io",
 		"video"
 	],
-	"author": "Vasanth.V <imvasanthv@gmail.com>",
+	"author": "",
 	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/vasanthv/talk/issues"
-	},
-	"homepage": "https://github.com/vasanthv/talk#readme",
 	"dependencies": {
 		"express": "^4.17.1",
 		"socket.io": "^4.0.1",

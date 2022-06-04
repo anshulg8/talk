@@ -11,7 +11,7 @@ It is built using WebRTC, so all your video, audio & text chat is peer-to-peer. 
 
 ### How to Build this app locally
 
-[Fork this repo](https://github.com/vasanthv/talk/fork) and then clone it:
+[Fork this repo](https://github.com) and then clone it:
 
 ```
 git clone https://github.com/<your_name>/talk.git
@@ -33,4 +33,4 @@ to start the talk server on port 3000. Your talk instance will be running on htt
 
 ### LICENSE
 
-<a href="https://github.com/vasanthv/talk/blob/master/LICENSE">MIT License</a>
+<a href="#">MIT License</a>
