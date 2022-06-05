@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<!-- GOOGLE_ANALYTICS_SCRIPT -->
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta
 			name="viewport"
@@ -14,8 +13,8 @@
 		/>
 		<meta name="application-name" content="Talk" />
 		<!-- Meta data for link fetching -->
-		<meta property="og:url" content="https://usetalk.io" />
-		<meta property="og:image" content="https://usetalk.io/icon.png" />
+		<meta property="og:url" content="" />
+		<meta property="og:image" content="/icon.png" />
 		<meta property="og:title" content="Talk - Free group video call for the web" />
 		<meta
 			property="og:description"
@@ -130,6 +129,7 @@
 						v-bind:class="'icon-more-horizontal '+(showSettings ? 'active' : '')"
 						v-on:click="showSettings = !showSettings"
 					></button>
+					<button onclick="window.location.href='/'">End Call</button>
 				</div>
 			</div>
 		</main>
